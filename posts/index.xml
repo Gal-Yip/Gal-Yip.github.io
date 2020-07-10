@@ -3,13 +3,18 @@
         <title>All Posts - LoveIt</title>
         <link>https://example.com/posts/</link>
         <description>All Posts | LoveIt</description>
+<<<<<<< HEAD
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 10 Jul 2020 19:43:35 &#43;0800</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+=======
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 09 Jul 2020 00:06:33 &#43;0800</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+>>>>>>> 3090e95cb3557da66270e88b4e27005a93410c73
     <title>Basic Markdown Syntax</title>
     <link>https://example.com/basic-markdown-syntax/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://example.com/basic-markdown-syntax/</guid>
     <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+<<<<<<< HEAD
 </item><item>
     <title>Abc</title>
     <link>https://example.com/abc/</link>
@@ -24,6 +29,8 @@
     <author>Author</author>
     <guid>https://example.com/first/</guid>
     <description><![CDATA[Hello Hugo  aaa bbb ccc  ]]></description>
+=======
+>>>>>>> 3090e95cb3557da66270e88b4e27005a93410c73
 </item><item>
     <title>First</title>
     <link>https://example.com/second/</link>

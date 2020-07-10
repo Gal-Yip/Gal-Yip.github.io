@@ -28,8 +28,15 @@
                     hreflang="en"
                     href="https://example.com/basic-markdown-syntax/"
                     /></url><url>
+<<<<<<< HEAD
             <loc>https://example.com/abc/</loc><lastmod>2020-07-10T19:43:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/</loc><lastmod>2020-07-10T19:43:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+=======
+            <loc>https://example.com/post/first/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/post/second/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/second/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+>>>>>>> 3090e95cb3557da66270e88b4e27005a93410c73
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://example.com/zh-cn/"
@@ -42,7 +49,11 @@
                     hreflang="en"
                     href="https://example.com/"
                     /></url><url>
+<<<<<<< HEAD
             <loc>https://example.com/posts/</loc><lastmod>2020-07-10T19:43:35&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+=======
+            <loc>https://example.com/posts/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+>>>>>>> 3090e95cb3557da66270e88b4e27005a93410c73
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://example.com/zh-cn/posts/"
@@ -55,10 +66,13 @@
                     hreflang="en"
                     href="https://example.com/posts/"
                     /></url><url>
+<<<<<<< HEAD
             <loc>https://example.com/post/first/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/post/second/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/first/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/second/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+=======
+>>>>>>> 3090e95cb3557da66270e88b4e27005a93410c73
             <loc>https://example.com/post/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -72,7 +86,10 @@
                     hreflang="en"
                     href="https://example.com/post/"
                     /></url><url>
+<<<<<<< HEAD
             <loc>https://example.com/about/</loc><lastmod>2020-07-09T00:04:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+=======
+>>>>>>> 3090e95cb3557da66270e88b4e27005a93410c73
             <loc>https://example.com/categories/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
