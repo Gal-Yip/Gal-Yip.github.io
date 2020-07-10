@@ -3,10 +3,10 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
             <loc>http://example.org/post/first/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/first/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/post/second/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/second/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod></url><url>
             <loc>http://example.org/posts/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod></url><url>
             <loc>http://example.org/post/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod></url><url>
             <loc>http://example.org/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/about/</loc><lastmod>2020-07-09T00:04:24&#43;08:00</lastmod></url><url>
             <loc>http://example.org/categories/</loc></url><url>
             <loc>http://example.org/tags/</loc></url></urlset>
