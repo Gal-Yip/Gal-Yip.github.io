@@ -3,6 +3,7 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
             <loc>http://example.org/post/basic-markdown-syntax/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/basic-markdown-syntax/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
             <loc>http://example.org/post/first/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod></url><url>
             <loc>http://example.org/post/second/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod></url><url>
             <loc>http://example.org/posts/second/</loc><lastmod>2020-07-09T00:06:33&#43;08:00</lastmod></url><url>
