@@ -1,40 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 我的全新 Hugo 网站</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on 我的全新 Hugo 网站</description>
+    <title>Posts on LoveIt</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Posts on LoveIt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Thu, 09 Jul 2020 00:06:33 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Markdown 基本语法</title>
-      <link>http://example.org/post/basic-markdown-syntax/</link>
+      <title>Basic Markdown Syntax</title>
+      <link>https://example.com/post/basic-markdown-syntax/</link>
       <pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate>
       
-      <guid>http://example.org/post/basic-markdown-syntax/</guid>
-      <description>&lt;p&gt;这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.&lt;/p&gt;</description>
+      <guid>https://example.com/post/basic-markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>First</title>
-      <link>http://example.org/post/first/</link>
+      <link>https://example.com/post/first/</link>
       <pubDate>Thu, 09 Jul 2020 00:06:33 +0800</pubDate>
       
-      <guid>http://example.org/post/first/</guid>
+      <guid>https://example.com/post/first/</guid>
       <description>Hello Hugo  aaa bbb ccc eee  </description>
     </item>
     
     <item>
       <title>First</title>
-      <link>http://example.org/post/second/</link>
+      <link>https://example.com/post/second/</link>
       <pubDate>Thu, 09 Jul 2020 00:06:33 +0800</pubDate>
       
-      <guid>http://example.org/post/second/</guid>
+      <guid>https://example.com/post/second/</guid>
       <description>Hello Hugo  aa1 bbb ccc eee  </description>
     </item>
     
